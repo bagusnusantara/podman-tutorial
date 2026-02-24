@@ -1,5 +1,7 @@
 # Podman Lab: Panduan Lengkap dari Dasar ke Advanced
 
+![Podman Logo](https://raw.githubusercontent.com/containers/podman/main/logo/podman-logo-source.svg)
+
 Selamat datang di materi praktikum Podman. Materi ini dirancang untuk membantu Anda memahami penggunaan Podman sebagai alternatif Docker yang aman, ringan, dan modern.
 
 ## Daftar Modul
