@@ -26,9 +26,9 @@ sudo apt install -y podman
 ```
 
 ### Windows (WSL2)
-1. Install [WSL2](https://learn.microsoft.com/en-us/windows/wsl/install).
-2. Download Podman Installer dari [podman.io](https://podman.io/).
-3. Jalankan `podman machine init` dan `podman machine start`.
+1. Download Podman Desktop Installer dari [podman-desktop.io](https://podman-desktop.io/).
+2. Jalankan installer. Podman Desktop akan memandu Anda menginstal WSL2 dan engine Podman secara otomatis.
+3. Setelah selesai, jalankan Podman Desktop untuk mengelola container melalui GUI atau tetap gunakan terminal.
 
 ---
 
