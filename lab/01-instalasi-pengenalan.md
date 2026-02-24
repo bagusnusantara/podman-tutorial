@@ -44,7 +44,7 @@ Podman akan menarik image dari registry (jika belum ada) dan menjalankannya.
 ### Menjalankan Nginx
 Jalankan web server Nginx di background:
 ```bash
-podman run -dt -p 8080:80 --name my-web nginx
+podman run -d -p 8080:80 --name my-web docker.io/library/nginx:latest
 ```
 *   `-d`: Detached mode (background).
 *   `-p 8080:80`: Mapping port 8080 host ke port 80 container.
@@ -65,5 +65,4 @@ podman ps -a
 ---
 **Tugas Lab:**
 1. Install Podman di komputer Anda.
-2. Buat alias `docker` ke `podman`.
-3. Jalankan container `nginx` dan pastikan bisa diakses dari browser.
+2. Jalankan container `nginx` dan pastikan bisa diakses dari browser.
