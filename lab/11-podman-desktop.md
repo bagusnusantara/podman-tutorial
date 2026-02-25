@@ -53,3 +53,9 @@ Podman Desktop memudahkan transisi ke Kubernetes:
 2.  Gunakan fitur **Images** untuk mencari image `nginx` dan jalankan menggunakan GUI.
 3.  Cek bagian **Containers**, buka tab **Logs** dan sertakan screenshot-nya.
 4.  Coba stop dan hapus container tersebut melalui Podman Desktop.
+
+---
+
+[Lanjut ke Lab 12: Podman dalam CI/CD](./12-podman-cicd.md)
+[Kembali ke Daftar Modul](../README.md)
+

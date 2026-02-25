@@ -67,5 +67,7 @@ sudo loginctl enable-linger $USER
 4. Generate file Systemd untuk container tersebut dan pastikan service-nya `active (running)`.
 
 ---
-## Kesimpulan
-Selamat! Anda telah menyelesaikan seluruh rangkaian materi lab Podman. Anda sekarang dibekali kemampuan untuk mengelola container, membangun image, orkestrasi pod, hingga persiapan deployment ke produksi.
+---
+[Lanjut ke Lab 11: Podman Desktop](./11-podman-desktop.md)
+[Kembali ke Daftar Modul](../README.md)
+

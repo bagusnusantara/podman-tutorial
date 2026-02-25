@@ -1,4 +1,4 @@
-# Podman Lab: Panduan Lengkap dari Dasar ke Advanced
+# Podman Lab: Panduan Lengkap dari Dasar
 
 ![Podman Logo](https://raw.githubusercontent.com/containers/podman/main/logo/podman-logo-source.svg)
 
@@ -39,6 +39,9 @@ Selamat datang di materi praktikum Podman. Materi ini dirancang untuk membantu A
 
 [11. Podman Desktop (GUI)](./lab/11-podman-desktop.md)
 *   Mengelola container menggunakan antarmuka grafis.
+
+[12. Podman dalam CI/CD](./lab/12-podman-cicd.md)
+*   Integrasi Podman dengan GitHub Actions dan GitLab CI.
 
 ---
 Materi ini dibuat untuk mempermudah transisi dari Docker ke Podman serta memaksimalkan fitur keamanan container.
